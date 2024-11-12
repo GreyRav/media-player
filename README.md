@@ -7,3 +7,5 @@ Bien évidemment vous trouverez les schémas et dossiers Gerber pour le faire vo
 Merci pour votre soutien et de l'intérêt pour ce projet !
 
 <3
+
+![Capture d'écran 2024-11-12 210336](https://github.com/user-attachments/assets/184f52fd-d2ef-4cd7-bae6-544f6035fbbb)
