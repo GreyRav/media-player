@@ -1,4 +1,4 @@
-Bonjour à tous, vous êtes ici sur le code source du media player.
+## Bonjour à tous, vous êtes ici sur le code source du media player.
 
 Vous y trouverez tout le code dans le dossier src, mais aussi tous les dossiers et librairies pour faire le media player.
 Le code est modifiable comme vous le voulez pour en faire un tool de bureau comme un stream deck ou autre. Comme le projet est basé sur un Arduino Pro Micro, vous pourrez facilement adapter le code !
