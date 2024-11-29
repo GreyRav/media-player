@@ -8,4 +8,5 @@ Merci pour votre soutien et de l'intérêt pour ce projet !
 
 <3
 
-![Capture d'écran 2024-11-12 210336](https://github.com/user-attachments/assets/184f52fd-d2ef-4cd7-bae6-544f6035fbbb)
+![image](https://github.com/user-attachments/assets/7da77d5b-7ec9-4e5e-b7db-4cf7a56ce731)
+
